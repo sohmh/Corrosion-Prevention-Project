@@ -1,67 +1,88 @@
-# [**CHOSEN REPOSITORY TITLE HERE**]
-Documentation and data repository for the team's corrosion prevention and materials research project.
-## 💡 Project Overview
+🧪 Project: Environmental Factors and Corrosion Inhibition
+Project Overview (Idea 3: Chemical Control)
 
-This repository serves as the central documentation, data storage, and progress tracker for our research project on **[Briefly state the goal, e.g., developing environmentally friendly corrosion inhibitors for steel pipelines]**.
+This project explores how common environmental factors (acidity, high temperature) dramatically accelerate the corrosion of metal samples and evaluates a specific chemical corrosion inhibitor (e.g., baking soda or a commercial product) as a passive prevention measure.
 
-It contains all experimental data, analysis scripts, standard operating procedures (SOPs), and final report drafts.
+The goal is to move beyond simple observation to quantify the impact of environment and the efficacy of chemical controls.
+🎯 Key Project Objectives (Deliverables)
 
-## 🎯 Project Goals
+Our final submission must include the following three integrated components:
 
-The primary objectives we aim to achieve are:
+    The Environmental Corrosion Chamber (Physical Contraption): A hands-on demonstration showing metal samples in controlled, corrosive environments (high pH, low pH, high temp, standard control).
 
-1.  **[Goal 1]:** Write goal one here
-2.  **[Goal 2]:** Write goal two here.
-3.  **[Goal 3]:** Write goal three here.
-4.  **[Goal 4]:** Write goal four here
+    Field Visit Report: Documentation and analysis of a local system (e.g., boiler/HVAC, manufacturing plant) that utilizes chemical inhibitors for corrosion control in closed-loop water systems.
 
-## 🛠️ Experimental Setup & Technology
+    Final Presentation: A detailed presentation covering the theory of corrosion, the design and results of our "Corrosion Chamber," and the real-world application observed during the field visit.
 
-This section documents the primary materials, techniques, and software used in the project.
+👥 Team Roles and Responsibilities (6 Members)
 
-### Chemistry & Materials
-* **Target Metal/Substrate:** $\text{[e.g., Q235 Carbon Steel, Aluminum Alloy 7075]}$
-* **Corrosive Medium:** $\text{[e.g., 3.5\% NaCl solution, 1.0 M HCl]}$
-* **Inhibitor Compounds:** $\text{[List main compounds, e.g., Pyridine derivatives, Plant extracts]}$
+Role
+	
 
-### Instrumentation & Analysis
-* **Electrochemical Analysis:** $\text{Potentiostat/Galvanostat (Model/Manufacturer)}$
-* **Techniques:** $\text{Electrochemical Impedance Spectroscopy (EIS), Potentiodynamic Polarization (PDP)}$
-* **Surface Characterization:** $\text{[e.g., Scanning Electron Microscopy (SEM)]}$
+Primary Responsibility
+	
 
-### Software & Data Tools
-* **Data Analysis:** $\text{Python (Pandas, NumPy, Matplotlib/Seaborn)}$
-* **Modeling/Fitting:** $\text{[e.g., ZSimpView, OriginPro]}$
-* **Version Control:** $\text{Git/GitHub}$
+Repository Focus
 
-## 📂 Repository Structure
+Project Lead (Coordinator & Integrator)
+	
 
-The project files are organized as follows:
-.
-├── Data/                        # All raw and processed experimental data files
-│   ├── Raw/                     # Untouched data from instrumentation (CSV, txt)
-│   └── Processed/               # Cleaned data and normalized results
-├── Protocols/                   # Detailed Standard Operating Procedures (SOPs)
-│   ├── Synthesis_Procedure.md   # Inhibitor synthesis steps
-│   └── Testing_Protocol.md      # EIS/PDP measurement methods
-├── Analysis_Scripts/            # Jupyter Notebooks or Python scripts for data processing
-│   └── EIS_Fitting.ipynb
-└── Reports/                     # Drafts, lab notes, and final report documents
-└── Final_Report_Draft.docx
+Schedule and communication management; final quality review and document integration.
+	
 
-## 📈 Project Tracking & Progress
+Maintaining the Master Timeline (TIMELINE.md).
 
-We use GitHub's integrated tools to manage our workflow and track progress toward our goals.
+Research & Content Lead
+	
 
-* **Issues:** Used to define individual **tasks** (e.g., "Run Sample A EIS," "Write Introduction Section") and report problems.
-* **Projects (Kanban Board):** Visual board used to manage the flow of work (**To Do $\rightarrow$ In Progress $\rightarrow$ Done**). Check the **'Projects'** tab for the current status.
-* **Milestones:** Used to track progress on major phases (e.g., **"Phase 1: Inhibitor Characterization"**).
+Oversees all background literature, ensures theoretical accuracy, and drafts the Presentation script.
+	
 
-## 🤝 Contribution Guidelines
+Research Notes (/research).
 
-Team members should follow these guidelines for consistent collaboration:
+Visual & Design Lead
+	
 
-1.  **Always create a new branch** for your work (e.g., `feat/data-analysis-sample-b`).
-2.  **Commit messages** should clearly reference the **Issue number** they address (e.g., `git commit -m "resolves #42: completed Sample B PDP run"`).
-3.  Submit a **Pull Request (PR)** for review before merging major changes into the `main` branch.
-4.  Data file naming conventions should follow: `[Date]_[SampleID]_[Technique].csv`
+Responsible for the aesthetic and clarity of the final Presentation slides and the display board for the contraption.
+	
+
+Slide drafts (/presentation).
+
+Contraption Build Lead
+	
+
+Manages material sourcing, construction of the experimental setup, and ensuring safety protocols are followed.
+	
+
+Bill of Materials (BOM.md), Setup photos (/photos).
+
+Field Visit Logistics Lead
+	
+
+Arranges and coordinates the field visit, conducts the interview, and writes the field report summary.
+	
+
+Field Visit Contacts, Report Draft (/field_visit).
+
+Data & Analysis Lead
+	
+
+Designs the data collection sheet, records all observations and measurements from the Chamber, and prepares the results graphs.
+	
+
+Raw Data (raw_data.xlsx), Analysis Scripts (/analysis).
+📁 Repository Structure
+
+    /research: Background theory, source papers, and literature reviews.
+
+    /analysis: Data sheets, calculation files, and resulting charts/graphs.
+
+    /presentation: All draft and final presentation files.
+
+    /field_visit: Field trip notes, interview questions, and final report.
+
+    /photos: Documentation of the Contraption setup and progress.
+
+    TIMELINE.md: Critical document for all members. Master schedule with internal deadlines.
+
+    BOM.md: Bill of Materials and expense tracking for the physical setup.
