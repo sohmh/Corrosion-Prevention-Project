@@ -46,7 +46,7 @@ This project is a collaborative effort by our 6-member team.
 
 ## 🛠 Project Milestones
 
-### Phase 1: Planning & Research 1.10.2025 - 20.10.2025
+### Phase 1: Planning & Research - 1.10.2025 - 20.10.2025
 - [ ] Define precise chemical concentrations and solutions.
 - [ ] Source all materials (samples, chemicals, containers).
 - [ ] Complete literature review on common corrosion types and inhibitors.
