@@ -46,17 +46,17 @@ This project is a collaborative effort by our 6-member team.
 
 ## 🛠 Project Milestones
 
-### Phase 1: Planning & Research
+### Phase 1: Planning & Research 1.10.2025 - 20.10.2025
 - [ ] Define precise chemical concentrations and solutions.
 - [ ] Source all materials (samples, chemicals, containers).
 - [ ] Complete literature review on common corrosion types and inhibitors.
 
-### Phase 2: Experimentation & Construction
+### Phase 2: Experimentation & Construction - 1.11.2025 - 30.11.2025
 - [ ] Construct the Environmental Corrosion Chamber.
 - [ ] Prepare all metal samples and chemical solutions.
 - [ ] Initiate experiment and begin daily observation/data logging.
 
-### Phase 3: Analysis & Finalization
+### Phase 3: Analysis & Finalization - 1.12.2025 - 21.12.2025
 - [ ] Conduct the field visit and gather documentation.
 - [ ] Final analysis of experimental data (corrosion rate comparison).
 - [ ] Prepare final project presentation and report.
