@@ -33,14 +33,14 @@ We will prepare metal samples (e.g., iron nails) and place them into four distin
 
 This project is a collaborative effort by our 6-member team.
 
-| Member | Suggested Role/Focus Area |
+| Member | Lead Roles|
 | :--- | :--- |
-| **Member 1** | Research & Literature Review (Inhibitor Chemistry) |
-| **Member 2** | Research & Literature Review (Environmental Factors) |
-| **Member 3** | Chemical Prep & Safety Officer |
-| **Member 4** | Experimental Observation & Data Analysis |
-| **Member 5** | Field Visit Interviews & Technical Documentation |
-| **Member 6** | Project Lead & Presentation Design |
+| **Rugved Jagtap** | Research & Content Lead |
+| **Aaryan Yadav** |  Research & Content Lead |
+| **Soham Gurav** | Project Lead |
+| **Sharwari Bhagwat** | Project Lead |
+| **Vaibhav Jahane** | Visual & Design Lead |
+| **Ishwari Bhawari** | Visual & Design Lead |
 
 ---
 
