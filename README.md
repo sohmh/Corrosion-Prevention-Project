@@ -1,88 +1,70 @@
-🧪 Project: Environmental Factors and Corrosion Inhibition
-Project Overview (Idea 3: Chemical Control)
+# Environmental Corrosion & Chemical Inhibitors
 
-This project explores how common environmental factors (acidity, high temperature) dramatically accelerate the corrosion of metal samples and evaluates a specific chemical corrosion inhibitor (e.g., baking soda or a commercial product) as a passive prevention measure.
+## 💡 Project Overview: Fighting the Elements
 
-The goal is to move beyond simple observation to quantify the impact of environment and the efficacy of chemical controls.
-🎯 Key Project Objectives (Deliverables)
+This project investigates the critical role of environmental factors—specifically **pH**, **temperature**, and **salinity**—in accelerating the corrosion of common metals (like iron/steel). Our core focus is to test and demonstrate the effectiveness of **chemical inhibitors** in slowing or preventing this damage, drawing parallels to real-world applications in industrial water systems.
 
-Our final submission must include the following three integrated components:
+The project is structured around three key components:
 
-    The Environmental Corrosion Chamber (Physical Contraption): A hands-on demonstration showing metal samples in controlled, corrosive environments (high pH, low pH, high temp, standard control).
+1.  **Presentation:** "Fighting the Elements: The Role of pH, Temperature, and Corrosion Inhibitors."
+2.  **Contraption:** Building the "Environmental Corrosion Chamber" for controlled experiments.
+3.  **Field Visit:** Analyzing real-world inhibitor use in closed-loop water systems (e.g., HVAC/boiler).
 
-    Field Visit Report: Documentation and analysis of a local system (e.g., boiler/HVAC, manufacturing plant) that utilizes chemical inhibitors for corrosion control in closed-loop water systems.
+---
 
-    Final Presentation: A detailed presentation covering the theory of corrosion, the design and results of our "Corrosion Chamber," and the real-world application observed during the field visit.
+## 🔬 Experimental Setup: The Environmental Corrosion Chamber
 
-👥 Team Roles and Responsibilities (6 Members)
+We will prepare metal samples (e.g., iron nails) and place them into four distinct environments within our custom chamber to compare corrosion rates.
 
-Role
-	
+| # | Environment | Goal |
+| :---: | :--- | :--- |
+| **1** | **Standard Saltwater** | Baseline corrosion in a saline environment. |
+| **2** | **Acidic Solution** (e.g., diluted vinegar) | Test corrosion at low $\text{pH}$. |
+| **3** | **High-Temperature Environment** | Test the accelerating effect of heat. |
+| **4** | **Saltwater + Inhibitor** (e.g., Baking Soda) | Test inhibitor effectiveness and surface passivation. |
 
-Primary Responsibility
-	
+### Expected Outcomes
+* Quantifiable differences in corrosion (e.g., rust formation, mass loss) across the four environments.
+* A clear visual demonstration of the corrosion inhibitor's protective effect.
 
-Repository Focus
+---
 
-Project Lead (Coordinator & Integrator)
-	
+## 👥 Team & Roles
 
-Schedule and communication management; final quality review and document integration.
-	
+This project is a collaborative effort by our 6-member team.
 
-Maintaining the Master Timeline (TIMELINE.md).
+| Member | Suggested Role/Focus Area |
+| :--- | :--- |
+| **Member 1** | Research & Literature Review (Inhibitor Chemistry) |
+| **Member 2** | Research & Literature Review (Environmental Factors) |
+| **Member 3** | Chemical Prep & Safety Officer |
+| **Member 4** | Experimental Observation & Data Analysis |
+| **Member 5** | Field Visit Interviews & Technical Documentation |
+| **Member 6** | Project Lead & Presentation Design |
 
-Research & Content Lead
-	
+---
 
-Oversees all background literature, ensures theoretical accuracy, and drafts the Presentation script.
-	
+## 🛠 Project Milestones
 
-Research Notes (/research).
+### Phase 1: Planning & Research
+- [ ] Define precise chemical concentrations and solutions.
+- [ ] Source all materials (samples, chemicals, containers).
+- [ ] Complete literature review on common corrosion types and inhibitors.
 
-Visual & Design Lead
-	
+### Phase 2: Experimentation & Construction
+- [ ] Construct the Environmental Corrosion Chamber.
+- [ ] Prepare all metal samples and chemical solutions.
+- [ ] Initiate experiment and begin daily observation/data logging.
 
-Responsible for the aesthetic and clarity of the final Presentation slides and the display board for the contraption.
-	
+### Phase 3: Analysis & Finalization
+- [ ] Conduct the field visit and gather documentation.
+- [ ] Final analysis of experimental data (corrosion rate comparison).
+- [ ] Prepare final project presentation and report.
 
-Slide drafts (/presentation).
+---
 
-Contraption Build Lead
-	
+## 🔗 Resources & Documentation
 
-Manages material sourcing, construction of the experimental setup, and ensuring safety protocols are followed.
-	
-
-Bill of Materials (BOM.md), Setup photos (/photos).
-
-Field Visit Logistics Lead
-	
-
-Arranges and coordinates the field visit, conducts the interview, and writes the field report summary.
-	
-
-Field Visit Contacts, Report Draft (/field_visit).
-
-Data & Analysis Lead
-	
-
-Designs the data collection sheet, records all observations and measurements from the Chamber, and prepares the results graphs.
-	
-
-Raw Data (raw_data.xlsx), Analysis Scripts (/analysis).
-📁 Repository Structure
-
-    /research: Background theory, source papers, and literature reviews.
-
-    /analysis: Data sheets, calculation files, and resulting charts/graphs.
-
-    /presentation: All draft and final presentation files.
-
-    /field_visit: Field trip notes, interview questions, and final report.
-
-    /photos: Documentation of the Contraption setup and progress.
-
-    TIMELINE.md: Critical document for all members. Master schedule with internal deadlines.
-
-    BOM.md: Bill of Materials and expense tracking for the physical setup.
+* [Link to your team's shared drive for data]
+* [Link to safety data sheets (SDS) for all chemicals used]
+* [Link to external scientific papers/references]
