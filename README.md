@@ -1,3 +1,4 @@
+![Corrosion](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/section_23/28f7e127eabcc9de2916eefc451f6e03.jpg)
 # Environmental Corrosion & Chemical Inhibitors
 
 ## 💡 Project Overview: Fighting the Elements
